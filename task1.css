@@ -1,0 +1,9 @@
+body{
+    background: rgb(202, 85, 140);
+    text-decoration:double;
+}
+*h1{
+    color: #e61010;
+    background-color: aquamarine;
+    text-decoration: #e61010;
+}
