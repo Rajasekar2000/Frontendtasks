@@ -1,0 +1,16 @@
+body{
+    background: rgb(243, 237, 235);
+    margin: 0%;
+    padding: 0%;
+  
+    
+nav{
+    padding: 20px;
+    text-decoration: none;
+    margin: 0px;
+    background-color: rgb(22, 26, 19);
+}
+nav a{
+    margin: 15px;
+    padding: 40px;
+}
