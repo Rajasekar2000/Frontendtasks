@@ -1,0 +1,10 @@
+.one{
+    text-shadow: 2rem;
+    text-align: center;
+    background-color: brown;
+}
+.two{
+    color: blue;
+    background-color: rgb(146, 201, 146);
+    text-size-adjust: 20px;
+}
