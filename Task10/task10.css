@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-color: aliceblue;
+padding: 20px;
+}
+h1.heading{
+    text-align: center;
+    color: black;
+}
+.example{
+    background:white;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 700px;
+    border-left: 5px solid skyblue;
+    border-radius: 7px;
+}
+.colored{
+    color: red;
+}
+.centered{
+    text-align: center;
+}
+.underline{
+    text-decoration: underline;
+}
+.no-underline{
+    text-decoration: none;
+    color: green;
+}
+.line{
+    text-decoration-color:red; 
+    text-decoration-style:solid;
+    text-decoration-line:underline ;
+}
+.uppercase{
+    text-transform: uppercase
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.spaced{
+    letter-spacing: 5px;
+     word-spacing: 10px;
+}
+.lined{
+    line-height: 19px;
+}
+.indent{
+    text-indent: -70px;
+}
